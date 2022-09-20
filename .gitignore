@@ -18,6 +18,8 @@
 /examples/ucontext-cp
 /examples/poll-bench
 /examples/send-zerocopy
+/examples/echo
+/examples/echo-test
 
 /test/*.t
 /test/*.dmesg

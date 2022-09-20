@@ -16,7 +16,9 @@ example_srcs := \
 	io_uring-udp.c \
 	link-cp.c \
 	poll-bench.c \
-	send-zerocopy.c
+	send-zerocopy.c \
+	echo.c \
+	echo-test.c
 
 all_targets :=
 
